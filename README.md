@@ -40,6 +40,8 @@ flask run --debug
 ## Testing
 
 ```bash
+
+trigger action
 pytest tests/ -v
 ```
 
